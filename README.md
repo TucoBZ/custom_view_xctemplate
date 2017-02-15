@@ -1,5 +1,5 @@
 # Custom View XCTemplate
-A simple swift XCode template to create Custom Views 
+A simple XCode template to create Custom Views in Swift 3.0
 
 ## Why to use
 If you ways have trouble, forget how to do the setup or IBDesignable never works... This is a reason to use it to never get a problem with custom XIB setup in your project
